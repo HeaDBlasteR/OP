@@ -121,5 +121,6 @@ int main() {
     add_hours(&time2, 4);
     output(&time2);
 
+    system("pause");
     return 0;
 }
